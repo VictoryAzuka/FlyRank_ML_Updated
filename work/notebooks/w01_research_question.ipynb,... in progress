@@ -61,11 +61,11 @@
     {
       "cell_type": "code",
       "metadata": {
-        "id": "2bd57901",
-        "outputId": "1ae8d793-12a7-4ae1-cfc0-15717a38de10",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "2bd57901",
+        "outputId": "1ae8d793-12a7-4ae1-cfc0-15717a38de10"
       },
       "source": [
         "import requests\n",
@@ -150,11 +150,11 @@
     {
       "cell_type": "code",
       "metadata": {
-        "id": "dbe4e624",
-        "outputId": "839ff512-4045-449b-9271-0385f8f5918a",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "dbe4e624",
+        "outputId": "839ff512-4045-449b-9271-0385f8f5918a"
       },
       "source": [
         "response_2 = requests.get(skill_raw_url_2)\n",
